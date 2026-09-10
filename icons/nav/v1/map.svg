@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img">
+<rect width="1600" height="760" fill="#0E1116"/>
+<text x="40" y="44" font-family="Georgia, Times, serif" font-size="20" fill="#D4B45A">How work moves</text>
+<text x="40" y="70" font-family="Georgia, Times, serif" font-size="14" fill="#9A927E">Capture in Inbox. Morning surface is Command Center. Create rows in Master Databases.</text>
+<rect x="640" y="96" width="320" height="64" rx="12" fill="#2A2416" stroke="#E2C36A" stroke-width="2.6"/>
+<text x="800" y="133" text-anchor="middle" font-family="Georgia, Times, serif" font-size="18" font-weight="700" fill="#E8E0CC">Founder OS</text>
+<line x1="800" y1="160" x2="129" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="36" y="188" width="186" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="129" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Command Center</text>
+<line x1="800" y1="160" x2="318" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="234" y="188" width="168" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="318" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Company OS</text>
+<line x1="800" y1="160" x2="498" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="414" y="188" width="168" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="498" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Portfolio</text>
+<line x1="800" y1="160" x2="664" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="594" y="188" width="140" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="664" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">GTM</text>
+<line x1="800" y1="160" x2="821" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="746" y="188" width="150" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="821" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Finance</text>
+<line x1="800" y1="160" x2="992" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="908" y="188" width="168" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="992" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Knowledge</text>
+<line x1="800" y1="160" x2="1163" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="1088" y="188" width="150" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1163" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Agents</text>
+<line x1="800" y1="160" x2="1407" y2="188" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="1250" y="188" width="314" height="56" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1407" y="221" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Master Databases</text>
+<line x1="129" y1="244" x2="129" y2="300" stroke="#6E5C2E" stroke-width="2"/>
+<rect x="36" y="300" width="186" height="52" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="129" y="331" text-anchor="middle" font-family="Georgia, Times, serif" font-size="14" fill="#E8E0CC">Inbox</text>
+<rect x="36" y="400" width="96" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="84" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Task</text>
+<rect x="140" y="400" width="116" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="198" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Experiment</text>
+<rect x="268" y="400" width="96" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="316" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Decision</text>
+<rect x="396" y="400" width="96" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="444" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Knowledge</text>
+<rect x="524" y="400" width="96" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="572" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Project</text>
+<rect x="652" y="400" width="96" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="700" y="427" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">People</text>
+<rect x="234" y="300" width="168" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="318" y="327" text-anchor="middle" font-family="Georgia, Times, serif" font-size="13" fill="#E8E0CC">Cadence</text>
+<rect x="414" y="300" width="168" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="498" y="327" text-anchor="middle" font-family="Georgia, Times, serif" font-size="13" fill="#E8E0CC">GI</text>
+<rect x="390" y="368" width="216" height="44" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="498" y="395" text-anchor="middle" font-family="Georgia, Times, serif" font-size="13" fill="#E8E0CC">Category Compass</text>
+<rect x="1250" y="300" width="96" height="40" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1298" y="325" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Projects</text>
+<rect x="1354" y="300" width="96" height="40" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1402" y="325" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Tasks</text>
+<rect x="1458" y="300" width="96" height="40" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1506" y="325" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Meetings</text>
+<rect x="1250" y="352" width="96" height="40" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1298" y="377" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">OKRs</text>
+<rect x="1354" y="352" width="96" height="40" rx="12" fill="#171C24" stroke="#D4B45A" stroke-width="1.6"/>
+<text x="1402" y="377" text-anchor="middle" font-family="Georgia, Times, serif" font-size="12" fill="#E8E0CC">Learning</text>
+<text x="40" y="730" font-family="Georgia, Times, serif" font-size="13" fill="#9A927E">Pages on the top row. Databases live under Master Databases. Inbox is the only capture door.</text>
+</svg>
