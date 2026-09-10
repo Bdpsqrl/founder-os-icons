@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1200" viewBox="0 0 1080 1200" role="img">
+  <rect width="1080" height="1200" fill="#0C1016"/>
+  <text x="56" y="88" font-family="Georgia, Times, serif" font-size="56" fill="#E2C36A">After a meeting</text>
+  <text x="56" y="140" font-family="Georgia, Times, serif" font-size="28" fill="#B8B09C">Before context fades.</text>
+  <rect x="56" y="196" width="968" height="140" rx="22" fill="#1A1610" stroke="#E8B84A" stroke-width="3"/>
+  <text x="540" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#F3E6C0">Confirm the Meetings row</text>
+  <text x="540" y="376" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="408" width="968" height="160" rx="22" fill="#101612" stroke="#7D9A78" stroke-width="3"/>
+  <text x="540" y="476" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#D7E6D4">Each next action → Task</text>
+  <text x="540" y="526" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#9AAB96">Link the meeting. No invented commitments.</text>
+  <text x="540" y="616" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="648" width="968" height="180" rx="22" fill="#16141C" stroke="#9B7EC8" stroke-width="3"/>
+  <text x="540" y="716" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#E6D7F0">Product or model choice?</text>
+  <text x="540" y="772" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#B09AC4">Write a Decision now. Do not bury it in notes.</text>
+  <text x="540" y="900" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#8A8270">Quotes must be verbatim.</text>
+  <text x="540" y="950" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#8A8270">Agent: Meeting follow-up. Still Draft.</text>
+</svg>
