@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2240" viewBox="0 0 1080 2240" role="img">
+  <rect width="1080" height="2240" fill="#0C1016"/>
+  <text x="36" y="130" font-family="Georgia, Times, serif" font-size="110" fill="#E2C36A">Daily</text>
+  <text x="36" y="210" font-family="Georgia, Times, serif" font-size="40" fill="#B8B09C">What you do every morning.</text>
+  <rect x="36" y="250" width="1008" height="210" rx="30" fill="#1A1610" stroke="#E8B84A" stroke-width="5"/>
+  <text x="540" y="363" text-anchor="middle" font-family="Georgia, Times, serif" font-size="52" fill="#F3E6C0">Open Command Center</text>
+  <text x="540" y="510" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="550" width="1008" height="230" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="639" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">Read the morning snapshot</text>
+  <text x="540" y="707" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Empty lists stay empty. Do not invent numbers.</text>
+  <text x="540" y="830" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="870" width="1008" height="250" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="969" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">Clear every open Inbox row</text>
+  <text x="540" y="1037" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Pick where it belongs, change Status, leave.</text>
+  <text x="540" y="1170" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1210" width="1008" height="210" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="1323" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6F0">Keep at most three important tasks</text>
+  <text x="540" y="1470" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1510" width="1008" height="250" rx="30" fill="#101612" stroke="#7D9A78" stroke-width="5"/>
+  <text x="540" y="1609" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6D4">Finish one small piece of work</text>
+  <text x="540" y="1677" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#9AAB96">Write the result on the Experiment or Project.</text>
+  <text x="540" y="1810" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1850" width="1008" height="250" rx="30" fill="#121018" stroke="#9B7EC8" stroke-width="5"/>
+  <text x="540" y="1949" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#E6D7F0">Review any agent draft</text>
+  <text x="540" y="2017" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#B09AC4">Accept it, fix the written steps, or reject it.</text>
+  <text x="540" y="2180" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#8A8270">Do not create a new agent today.</text>
+</svg>
