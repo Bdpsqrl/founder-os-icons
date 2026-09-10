@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2080" viewBox="0 0 1080 2080" role="img">
+  <rect width="1080" height="2080" fill="#0C1016"/>
+  <text x="40" y="120" font-family="Georgia, Times, serif" font-size="80" fill="#E2C36A">Promote objects</text>
+  <text x="40" y="200" font-family="Georgia, Times, serif" font-size="36" fill="#B8B09C">Never start at Agent. Two human runs first.</text>
+  <rect x="40" y="250" width="1000" height="150" rx="28" fill="#1A1610" stroke="#E8B84A" stroke-width="4"/>
+  <text x="540" y="350" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">1  Expert workflow — six lines</text>
+  <text x="540" y="450" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="490" width="1000" height="150" rx="28" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="590" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#D7E6F0">2  Knowledge row</text>
+  <text x="540" y="690" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="730" width="1000" height="150" rx="28" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="830" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">3  Template + Style if it repeats</text>
+  <text x="540" y="930" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="970" width="1000" height="200" rx="28" fill="#101612" stroke="#7D9A78" stroke-width="4"/>
+  <text x="540" y="1055" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6D4">4  Skill — Draft, then Live</text>
+  <text x="540" y="1120" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#9AAB96">After one clean run. Human can do the steps.</text>
+  <text x="540" y="1220" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1260" width="1000" height="200" rx="28" fill="#121018" stroke="#9B7EC8" stroke-width="4"/>
+  <text x="540" y="1345" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#E6D7F0">5  Agent uses that Live Skill</text>
+  <text x="540" y="1410" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#B09AC4">One row. No twin spec. Trigger Manual.</text>
+  <text x="540" y="1510" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1550" width="1000" height="210" rx="28" fill="#141010" stroke="#8A5A5A" stroke-width="4"/>
+  <text x="540" y="1640" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D8B0B0">6  Automation last</text>
+  <text x="540" y="1710" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#C4B48A">Three clean runs. Output you would accept unread.</text>
+  <text x="540" y="1880" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#8A8270">Six lines: trigger · inputs · steps</text>
+  <text x="540" y="1930" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#8A8270">judgement · done · failure modes</text>
+  <text x="540" y="1990" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#C4B48A">No Live skill → demote the agent the same day.</text>
+</svg>
