@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1240" viewBox="0 0 1080 1240" role="img">
+  <rect width="1080" height="1240" fill="#0C1016"/>
+  <text x="56" y="88" font-family="Georgia, Times, serif" font-size="48" fill="#E2C36A">Durable answer</text>
+  <text x="56" y="140" font-family="Georgia, Times, serif" font-size="28" fill="#B8B09C">One Knowledge row. No essays.</text>
+  <rect x="56" y="196" width="968" height="140" rx="22" fill="#10161C" stroke="#6EA8C9" stroke-width="3"/>
+  <text x="540" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#D7E6F0">Question</text>
+  <text x="540" y="376" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="408" width="968" height="160" rx="22" fill="#10161C" stroke="#6EA8C9" stroke-width="3"/>
+  <text x="540" y="476" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#D7E6F0">Read existing Knowledge first</text>
+  <text x="540" y="526" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#9BB4C4">Prefer Founder OS rows over the open web</text>
+  <text x="540" y="616" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="648" width="968" height="220" rx="22" fill="#141810" stroke="#D4B45A" stroke-width="3"/>
+  <text x="540" y="716" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#F3E6C0">One Knowledge row</text>
+  <text x="540" y="768" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#C4B48A">Claim · Evidence · Implication · Sources</text>
+  <text x="540" y="816" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#8A8270">No invented quotes. Every claim has a source.</text>
+  <text x="540" y="960" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#8A8270">Agent: Research synthesis. Manual. Draft.</text>
+</svg>
