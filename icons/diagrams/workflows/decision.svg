@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1180" viewBox="0 0 1080 1180" role="img">
+  <rect width="1080" height="1180" fill="#0C1016"/>
+  <text x="56" y="88" font-family="Georgia, Times, serif" font-size="52" fill="#E2C36A">After a material choice</text>
+  <text x="56" y="140" font-family="Georgia, Times, serif" font-size="28" fill="#B8B09C">Write the Decision before you implement.</text>
+  <rect x="56" y="196" width="968" height="140" rx="22" fill="#16141C" stroke="#9B7EC8" stroke-width="3"/>
+  <text x="540" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#E6D7F0">Context</text>
+  <text x="540" y="376" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="408" width="968" height="140" rx="22" fill="#16141C" stroke="#9B7EC8" stroke-width="3"/>
+  <text x="540" y="494" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#E6D7F0">Options · chosen option · why</text>
+  <text x="540" y="588" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">↓</text>
+  <rect x="56" y="620" width="968" height="160" rx="22" fill="#1A1610" stroke="#E8B84A" stroke-width="3"/>
+  <text x="540" y="688" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#F3E6C0">Revisit date required</text>
+  <text x="540" y="738" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#C4B48A">Keep, supersede, or reject on that date</text>
+  <text x="540" y="880" text-anchor="middle" font-family="Georgia, Times, serif" font-size="26" fill="#8A8270">Framer can frame this in chat. Not a live bot.</text>
+</svg>
