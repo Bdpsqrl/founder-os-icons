@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1990" viewBox="0 0 1080 1990" role="img">
+  <rect width="1080" height="1990" fill="#0C1016"/>
+  <text x="36" y="120" font-family="Georgia, Times, serif" font-size="72" fill="#E2C36A">How a piece of work ships</text>
+  <text x="36" y="200" font-family="Georgia, Times, serif" font-size="38" fill="#B8B09C">Small finished piece. Written result. No new agent.</text>
+  <rect x="36" y="240" width="1008" height="160" rx="30" fill="#1A1610" stroke="#E8B84A" stroke-width="5"/>
+  <text x="540" y="328" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#F3E6C0">Start in Inbox</text>
+  <text x="540" y="446" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="482" width="1008" height="240" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="552" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#F3E6C0">Need several sittings?</text>
+  <text x="540" y="610" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">Only open a Project if you can name</text>
+  <text x="540" y="668" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">a success measure and an end state.</text>
+  <text x="540" y="768" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="804" width="1008" height="220" rx="30" fill="#16141C" stroke="#9B7EC8" stroke-width="5"/>
+  <text x="540" y="888" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#E6D7F0">Is this a choice or a test?</text>
+  <text x="540" y="956" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#B09AC4">Write the Decision or Experiment first.</text>
+  <text x="540" y="1070" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1106" width="1008" height="180" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="1204" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D7E6F0">Split the rest into one-sitting Tasks</text>
+  <text x="540" y="1332" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1368" width="1008" height="220" rx="30" fill="#101612" stroke="#7D9A78" stroke-width="5"/>
+  <text x="540" y="1452" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D7E6D4">Finish one small piece</text>
+  <text x="540" y="1520" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#9AAB96">Write what happened on that row.</text>
+  <text x="540" y="1634" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1670" width="1008" height="240" rx="30" fill="#141010" stroke="#8A5A5A" stroke-width="5"/>
+  <text x="540" y="1764" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D8B0B0">If it failed, fix the written steps</text>
+  <text x="540" y="1832" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">Run it once more. Do not add an agent.</text>
+</svg>
