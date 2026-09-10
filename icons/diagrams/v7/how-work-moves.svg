@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img">
+  <rect width="1080" height="1920" fill="#0C1016"/>
+  <text x="56" y="96" font-family="Georgia, Times, serif" font-size="72" fill="#E2C36A">How work moves</text>
+  <text x="56" y="160" font-family="Georgia, Times, serif" font-size="34" fill="#B8B09C">One row at a time.</text>
+  <text x="56" y="240" font-family="Georgia, Times, serif" font-size="28" letter-spacing="6" fill="#8A8270">1  CAPTURE</text>
+  <rect x="56" y="264" width="968" height="260" rx="24" fill="#1A1610" stroke="#E8B84A" stroke-width="4"/>
+  <text x="540" y="372" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#F3E6C0">Inbox</text>
+  <text x="540" y="440" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Then Command Center</text>
+  <text x="540" y="580" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#8A8270">↓</text>
+  <text x="56" y="660" font-family="Georgia, Times, serif" font-size="28" letter-spacing="6" fill="#8A8270">2  ROUTE</text>
+  <rect x="56" y="684" width="968" height="360" rx="24" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="776" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">Route → then Status</text>
+  <text x="540" y="848" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#D7E6D4">Task  Experiment  Decision</text>
+  <text x="540" y="900" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#D7E6F0">Knowledge  Project  People</text>
+  <text x="540" y="968" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">Park or Drop. Then leave.</text>
+  <text x="540" y="1110" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#8A8270">↓</text>
+  <text x="56" y="1190" font-family="Georgia, Times, serif" font-size="28" letter-spacing="6" fill="#8A8270">3  WORK</text>
+  <rect x="56" y="1214" width="968" height="260" rx="24" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="1320" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6F0">Work on that row</text>
+  <text x="540" y="1390" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#B8B09C">Do not add an agent</text>
+  <text x="540" y="1534" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#8A8270">↓</text>
+  <text x="56" y="1614" font-family="Georgia, Times, serif" font-size="28" letter-spacing="6" fill="#8A8270">4  SHIP</text>
+  <rect x="56" y="1638" width="968" height="220" rx="24" fill="#101612" stroke="#7D9A78" stroke-width="4"/>
+  <text x="540" y="1730" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6D4">Thin slice. Log it.</text>
+  <text x="540" y="1798" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#B8B09C">Choice = Decision. Test = Experiment.</text>
+</svg>
