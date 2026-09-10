@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="980" viewBox="0 0 2400 980" role="img">
+  <rect width="2400" height="980" fill="#0C1016"/>
+  <text x="56" y="64" font-family="Georgia, Times, serif" font-size="42" fill="#E2C36A">How work moves</text>
+  <text x="56" y="108" font-family="Georgia, Times, serif" font-size="26" fill="#B8B09C">One capture door. Route the row. Work lives in databases. Agents draft. Humans ship.</text>
+  <text x="56" y="172" font-family="Georgia, Times, serif" font-size="20" letter-spacing="3" fill="#8A8270">1  CAPTURE</text>
+  <text x="56" y="378" font-family="Georgia, Times, serif" font-size="20" letter-spacing="3" fill="#8A8270">2  ROUTE</text>
+  <text x="56" y="574" font-family="Georgia, Times, serif" font-size="20" letter-spacing="3" fill="#8A8270">3  WORK</text>
+  <text x="56" y="770" font-family="Georgia, Times, serif" font-size="20" letter-spacing="3" fill="#8A8270">4  SURFACES</text>
+  <rect x="56" y="192" width="430" height="118" rx="20" fill="#1A1610" stroke="#E8B84A" stroke-width="3"/>
+  <text x="271" y="244" text-anchor="middle" font-family="Georgia, Times, serif" font-size="30" fill="#F3E6C0">Inbox</text>
+  <text x="271" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#C4B48A">one door · Route then Status</text>
+  <rect x="510" y="192" width="430" height="118" rx="20" fill="#161410" stroke="#D4B45A" stroke-width="3"/>
+  <text x="725" y="244" text-anchor="middle" font-family="Georgia, Times, serif" font-size="30" fill="#F3E6C0">Command Center</text>
+  <text x="725" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#C4B48A">daily surface · process, leave</text>
+  <rect x="964" y="192" width="430" height="118" rx="20" fill="#12161C" stroke="#6EA8C9" stroke-width="2.6"/>
+  <text x="1179" y="244" text-anchor="middle" font-family="Georgia, Times, serif" font-size="30" fill="#D7E6F0">Agents</text>
+  <text x="1179" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#9BB4C4">Research · Engineering · Operating</text>
+  <rect x="1418" y="192" width="430" height="118" rx="20" fill="#101612" stroke="#7D9A78" stroke-width="2.6"/>
+  <text x="1633" y="244" text-anchor="middle" font-family="Georgia, Times, serif" font-size="30" fill="#D7E6D4">Master Databases</text>
+  <text x="1633" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#9AAB96">create rows here only</text>
+  <rect x="1872" y="192" width="472" height="118" rx="20" fill="#121018" stroke="#9B7EC8" stroke-width="2.6"/>
+  <text x="2108" y="244" text-anchor="middle" font-family="Georgia, Times, serif" font-size="30" fill="#E6D7F0">Products</text>
+  <text x="2108" y="282" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#B09AC4">GI · Category Compass</text>
+  <rect x="56" y="398" width="264" height="96" rx="18" fill="#141C16" stroke="#7D9A78" stroke-width="2.6"/>
+  <text x="188" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D7E6D4">Task</text>
+  <rect x="340" y="398" width="264" height="96" rx="18" fill="#1A1610" stroke="#C9843A" stroke-width="2.6"/>
+  <text x="472" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#F0D4B0">Experiment</text>
+  <rect x="624" y="398" width="264" height="96" rx="18" fill="#16141C" stroke="#9B7EC8" stroke-width="2.6"/>
+  <text x="756" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#E6D7F0">Decision</text>
+  <rect x="908" y="398" width="264" height="96" rx="18" fill="#10161C" stroke="#6EA8C9" stroke-width="2.6"/>
+  <text x="1040" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D7E6F0">Knowledge</text>
+  <rect x="1192" y="398" width="264" height="96" rx="18" fill="#141810" stroke="#D4B45A" stroke-width="2.6"/>
+  <text x="1324" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#F3E6C0">Project</text>
+  <rect x="1476" y="398" width="264" height="96" rx="18" fill="#161410" stroke="#C9843A" stroke-width="2.6"/>
+  <text x="1608" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#F0D4B0">People</text>
+  <rect x="1760" y="398" width="264" height="96" rx="18" fill="#141410" stroke="#8A8270" stroke-width="2.6"/>
+  <text x="1892" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D0C8B8">Park</text>
+  <rect x="2044" y="398" width="300" height="96" rx="18" fill="#141010" stroke="#8A5A5A" stroke-width="2.6"/>
+  <text x="2194" y="456" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D8B0B0">Drop</text>
+  <rect x="56" y="594" width="376" height="96" rx="18" fill="#141C16" stroke="#7D9A78" stroke-width="2.6"/>
+  <text x="244" y="652" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#D7E6D4">Tasks · Projects · OKRs</text>
+  <rect x="456" y="594" width="376" height="96" rx="18" fill="#1A1610" stroke="#C9843A" stroke-width="2.6"/>
+  <text x="644" y="652" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#F0D4B0">Experiments · Decisions</text>
+  <rect x="856" y="594" width="376" height="96" rx="18" fill="#10161C" stroke="#6EA8C9" stroke-width="2.6"/>
+  <text x="1044" y="652" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#D7E6F0">Knowledge · Meetings</text>
+  <rect x="1256" y="594" width="376" height="96" rx="18" fill="#12161C" stroke="#6EA8C9" stroke-width="2.6"/>
+  <text x="1444" y="652" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#D7E6F0">Research writes notes</text>
+  <rect x="1656" y="594" width="688" height="96" rx="18" fill="#161410" stroke="#C9843A" stroke-width="2.6"/>
+  <text x="2000" y="652" text-anchor="middle" font-family="Georgia, Times, serif" font-size="24" fill="#F0D4B0">Engineering eval · lint · split work</text>
+  <rect x="56" y="790" width="540" height="130" rx="20" fill="#161410" stroke="#D4B45A" stroke-width="3"/>
+  <text x="326" y="844" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#F3E6C0">Founder OS</text>
+  <text x="326" y="884" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#C4B48A">home · principles · agent roster</text>
+  <rect x="620" y="790" width="540" height="130" rx="20" fill="#121018" stroke="#9B7EC8" stroke-width="3"/>
+  <text x="890" y="844" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#E6D7F0">Company · GTM · Finance</text>
+  <text x="890" y="884" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#B09AC4">standing context, not capture</text>
+  <rect x="1184" y="790" width="540" height="130" rx="20" fill="#101612" stroke="#7D9A78" stroke-width="3"/>
+  <text x="1454" y="844" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D7E6D4">Learning Studio · Now</text>
+  <text x="1454" y="884" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#9AAB96">one loop, project-triggered</text>
+  <rect x="1748" y="790" width="596" height="130" rx="20" fill="#10161C" stroke="#6EA8C9" stroke-width="3"/>
+  <text x="2046" y="844" text-anchor="middle" font-family="Georgia, Times, serif" font-size="28" fill="#D7E6F0">Weekly founder update</text>
+  <text x="2046" y="884" text-anchor="middle" font-family="Georgia, Times, serif" font-size="20" fill="#9BB4C4">draft from databases, then edit</text>
+</svg>
