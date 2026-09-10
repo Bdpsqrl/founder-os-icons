@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2030" viewBox="0 0 1080 2030" role="img">
+  <rect width="1080" height="2030" fill="#0C1016"/>
+  <text x="36" y="120" font-family="Georgia, Times, serif" font-size="52" fill="#E2C36A">How repeating work becomes an agent</text>
+  <text x="36" y="200" font-family="Georgia, Times, serif" font-size="36" fill="#B8B09C">Never start by creating an agent. You run it yourself first.</text>
+  <rect x="36" y="240" width="1008" height="200" rx="30" fill="#1A1610" stroke="#E8B84A" stroke-width="5"/>
+  <text x="540" y="348" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#F3E6C0">Write the six lines on the project page</text>
+  <text x="540" y="486" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="522" width="1008" height="180" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="620" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D7E6F0">Save the reusable lesson as Knowledge</text>
+  <text x="540" y="748" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="784" width="1008" height="200" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="892" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#F3E6C0">If the same artefact repeats, freeze a template</text>
+  <text x="540" y="1030" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1066" width="1008" height="240" rx="30" fill="#101612" stroke="#7D9A78" stroke-width="5"/>
+  <text x="540" y="1160" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#D7E6D4">Package a Skill only after two human runs</text>
+  <text x="540" y="1228" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#9AAB96">Draft until one clean run. Then Live.</text>
+  <text x="540" y="1352" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1388" width="1008" height="240" rx="30" fill="#121018" stroke="#9B7EC8" stroke-width="5"/>
+  <text x="540" y="1482" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#E6D7F0">An Agent uses that Live Skill</text>
+  <text x="540" y="1550" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#B09AC4">One row. Manual trigger. No second spec page.</text>
+  <text x="540" y="1674" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1710" width="1008" height="240" rx="30" fill="#141010" stroke="#8A5A5A" stroke-width="5"/>
+  <text x="540" y="1804" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D8B0B0">Automate last</text>
+  <text x="540" y="1872" text-anchor="middle" font-family="Georgia, Times, serif" font-size="32" fill="#C4B48A">Three clean runs. You would accept the output unread.</text>
+</svg>
