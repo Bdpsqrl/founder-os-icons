@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2160" viewBox="0 0 1080 2160" role="img">
+  <rect width="1080" height="2160" fill="#0C1016"/>
+  <text x="40" y="120" font-family="Georgia, Times, serif" font-size="96" fill="#E2C36A">How we ship</text>
+  <text x="40" y="200" font-family="Georgia, Times, serif" font-size="40" fill="#B8B09C">Thin slice. Log it. Do not add an agent.</text>
+  <rect x="40" y="250" width="1000" height="150" rx="28" fill="#1A1610" stroke="#E8B84A" stroke-width="4"/>
+  <text x="540" y="350" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#F3E6C0">Inbox</text>
+  <text x="540" y="460" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="500" width="1000" height="210" rx="28" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="590" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#F3E6C0">Project only if metric + end state</text>
+  <text x="540" y="660" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Else Task only, linked to a Project</text>
+  <text x="540" y="770" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="810" width="470" height="210" rx="28" fill="#16141C" stroke="#9B7EC8" stroke-width="4"/>
+  <text x="275" y="900" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#E6D7F0">Choice?</text>
+  <text x="275" y="970" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#B09AC4">Decision first</text>
+  <rect x="570" y="810" width="470" height="210" rx="28" fill="#1A1610" stroke="#C9843A" stroke-width="4"/>
+  <text x="805" y="900" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#F0D4B0">Test?</text>
+  <text x="805" y="970" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Experiment first</text>
+  <text x="540" y="1080" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1120" width="1000" height="150" rx="28" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="1220" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#D7E6F0">Split into Tasks. P0 scarce.</text>
+  <text x="540" y="1330" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1370" width="1000" height="210" rx="28" fill="#101612" stroke="#7D9A78" stroke-width="4"/>
+  <text x="540" y="1460" text-anchor="middle" font-family="Georgia, Times, serif" font-size="52" fill="#D7E6D4">Ship a thin slice. Log it.</text>
+  <text x="540" y="1530" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#9AAB96">On the Experiment or Project</text>
+  <text x="540" y="1640" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1680" width="1000" height="230" rx="28" fill="#141010" stroke="#8A5A5A" stroke-width="4"/>
+  <text x="540" y="1770" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#D8B0B0">Miss? Patch the lowest object.</text>
+  <text x="540" y="1850" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Re-run once. Do not add an agent.</text>
+  <text x="540" y="2020" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#8A8270">No next action → archive or pause</text>
+  <text x="540" y="2080" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#8A8270">Repeats → write the six-line workflow first</text>
+</svg>
