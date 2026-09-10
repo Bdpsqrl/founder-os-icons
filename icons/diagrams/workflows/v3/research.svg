@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1210" viewBox="0 0 1080 1210" role="img">
+  <rect width="1080" height="1210" fill="#0C1016"/>
+  <text x="36" y="120" font-family="Georgia, Times, serif" font-size="52" fill="#E2C36A">When you need a lasting answer</text>
+  <text x="36" y="200" font-family="Georgia, Times, serif" font-size="38" fill="#B8B09C">One Knowledge row. Not an essay.</text>
+  <rect x="36" y="250" width="1008" height="160" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="338" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#D7E6F0">Write the question</text>
+  <text x="540" y="460" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="500" width="1008" height="240" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="594" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#D7E6F0">Read Knowledge you already have</text>
+  <text x="540" y="662" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#9BB4C4">Use Founder OS rows before the open web.</text>
+  <text x="540" y="790" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="830" width="1008" height="300" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="930" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">File one Knowledge row</text>
+  <text x="540" y="988" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">Claim. Evidence. What it means.</text>
+  <text x="540" y="1046" text-anchor="middle" font-family="Georgia, Times, serif" font-size="34" fill="#C4B48A">Sources. No invented quotes.</text>
+</svg>
