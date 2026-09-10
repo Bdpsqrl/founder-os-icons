@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1380" viewBox="0 0 1080 1380" role="img">
+  <rect width="1080" height="1380" fill="#0C1016"/>
+  <text x="40" y="120" font-family="Georgia, Times, serif" font-size="88" fill="#E2C36A">Durable answer</text>
+  <text x="40" y="200" font-family="Georgia, Times, serif" font-size="44" fill="#B8B09C">One Knowledge row. No essays.</text>
+  <rect x="40" y="260" width="1000" height="180" rx="28" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="375" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#D7E6F0">Question</text>
+  <text x="540" y="500" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="540" width="1000" height="230" rx="28" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="640" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#D7E6F0">Read existing Knowledge first</text>
+  <text x="540" y="720" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#9BB4C4">Prefer Founder OS rows over the web</text>
+  <text x="540" y="830" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="870" width="1000" height="300" rx="28" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="970" text-anchor="middle" font-family="Georgia, Times, serif" font-size="52" fill="#F3E6C0">One Knowledge row</text>
+  <text x="540" y="1050" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#C4B48A">Claim · Evidence · Implication · Sources</text>
+  <text x="540" y="1120" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#8A8270">No invented quotes. Every claim has a source.</text>
+  <text x="540" y="1280" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#8A8270">Agent: Research synthesis. Manual. Draft.</text>
+</svg>
