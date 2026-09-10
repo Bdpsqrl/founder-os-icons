@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1740" viewBox="0 0 1080 1740" role="img">
+  <rect width="1080" height="1740" fill="#0C1016"/>
+  <text x="36" y="130" font-family="Georgia, Times, serif" font-size="110" fill="#E2C36A">Inbox</text>
+  <text x="36" y="210" font-family="Georgia, Times, serif" font-size="40" fill="#B8B09C">Capture only. Do the work somewhere else.</text>
+  <rect x="36" y="250" width="1008" height="180" rx="30" fill="#1A1610" stroke="#E8B84A" stroke-width="5"/>
+  <text x="540" y="348" text-anchor="middle" font-family="Georgia, Times, serif" font-size="48" fill="#F3E6C0">Read the type and how old it is</text>
+  <text x="540" y="480" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="520" width="1008" height="420" rx="30" fill="#141810" stroke="#D4B45A" stroke-width="5"/>
+  <text x="540" y="593" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#F3E6C0">Choose where it belongs</text>
+  <text x="540" y="651" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#D7E6D4">A to-do becomes a Task.</text>
+  <text x="540" y="709" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#F0D4B0">A test becomes an Experiment.</text>
+  <text x="540" y="767" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#E6D7F0">A choice becomes a Decision.</text>
+  <text x="540" y="825" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#D7E6F0">Something to learn becomes Knowledge.</text>
+  <text x="540" y="883" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Not now is Parked. Noise is Dropped.</text>
+  <text x="540" y="990" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1030" width="1008" height="220" rx="30" fill="#10161C" stroke="#6EA8C9" stroke-width="5"/>
+  <text x="540" y="1114" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6F0">Change Status so it leaves this view</text>
+  <text x="540" y="1182" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#9BB4C4">Processed, Parked, or Dropped.</text>
+  <text x="540" y="1300" text-anchor="middle" font-family="Georgia, Times, serif" font-size="72" fill="#8A8270">↓</text>
+  <rect x="36" y="1340" width="1008" height="220" rx="30" fill="#101612" stroke="#7D9A78" stroke-width="5"/>
+  <text x="540" y="1424" text-anchor="middle" font-family="Georgia, Times, serif" font-size="44" fill="#D7E6D4">Leave Inbox</text>
+  <text x="540" y="1492" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#9AAB96">Open the destination row and work there.</text>
+  <text x="540" y="1630" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Older than 7 days: process it before deep work.</text>
+  <text x="540" y="1680" text-anchor="middle" font-family="Georgia, Times, serif" font-size="36" fill="#C4B48A">Do not park Knowledge without filing it.</text>
+</svg>
