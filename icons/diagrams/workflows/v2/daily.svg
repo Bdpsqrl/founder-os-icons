@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2140" viewBox="0 0 1080 2140" role="img">
+  <rect width="1080" height="2140" fill="#0C1016"/>
+  <text x="40" y="120" text-anchor="start" font-family="Georgia, Times, serif" font-size="104" fill="#E2C36A">Daily</text>
+  <text x="40" y="200" text-anchor="start" font-family="Georgia, Times, serif" font-size="44" fill="#B8B09C">Command Center. Empty Inbox. Ship one slice.</text>
+  <rect x="40" y="250" width="1000" height="180" rx="28" fill="#1A1610" stroke="#E8B84A" stroke-width="4"/>
+  <text x="540" y="365" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#F3E6C0">1  Open Command Center</text>
+  <text x="540" y="480" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="520" width="1000" height="180" rx="28" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="635" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#F3E6C0">2  Review Morning brief</text>
+  <text x="540" y="750" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="790" width="1000" height="220" rx="28" fill="#141810" stroke="#D4B45A" stroke-width="4"/>
+  <text x="540" y="880" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#F3E6C0">3  Empty Open Inbox</text>
+  <text x="540" y="960" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#C4B48A">Route → then Status. Leave.</text>
+  <text x="540" y="1060" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1100" width="1000" height="180" rx="28" fill="#10161C" stroke="#6EA8C9" stroke-width="4"/>
+  <text x="540" y="1215" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#D7E6F0">4  Three tasks. P0 scarce.</text>
+  <text x="540" y="1330" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1370" width="1000" height="220" rx="28" fill="#101612" stroke="#7D9A78" stroke-width="4"/>
+  <text x="540" y="1460" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#D7E6D4">5  Ship a thin slice</text>
+  <text x="540" y="1540" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#9AAB96">Log on Experiment or Project</text>
+  <text x="540" y="1640" text-anchor="middle" font-family="Georgia, Times, serif" font-size="64" fill="#8A8270">↓</text>
+  <rect x="40" y="1680" width="1000" height="220" rx="28" fill="#121018" stroke="#9B7EC8" stroke-width="4"/>
+  <text x="540" y="1770" text-anchor="middle" font-family="Georgia, Times, serif" font-size="56" fill="#E6D7F0">6  Sign off agent drafts</text>
+  <text x="540" y="1850" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#B09AC4">Accept, patch workflow, or reject</text>
+  <text x="540" y="2020" text-anchor="middle" font-family="Georgia, Times, serif" font-size="40" fill="#8A8270">Never invent numbers. Empty = None.</text>
+</svg>
